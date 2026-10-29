@@ -1,5 +1,3 @@
-// ^ Write your JavaScript code here
-
 document.addEventListener("DOMContentLoaded", () => {
   // ========================================================================
   // 1. Dark and Light Theme Toggle
